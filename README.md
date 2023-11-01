@@ -1,0 +1,4 @@
+# Leetcode Repository
+This is just a backup of all of the solutions I've written for Leetcode problems, either just for fun, for CS 393, or for interview prep.
+## File formats
+All solutions are in Python. Leetcode requires solutions to be wrapped inside of a class for some reason which I don't think is all that pythonic, so I've modified most of the function definitions to just require functions. Also I always change their custom `List` to the Python `list` and I have a reference file for common Leetcode-provided data structures such as `TreeNode`. So if you're pasting these back into Leetcode, be sure to not overwrite Leetcode's function definition otherwise you'll see a runtime error.
