@@ -1,6 +1,3 @@
-import math
-
-
 def canCompleteCircuit(gas: list[int], cost: list[int]) -> int:
     diff = sum(gas) - sum(cost)
     if diff < 0:
